@@ -1,0 +1,13 @@
+h1{
+  font-size: 50px;
+  color:orange;
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  background-color: #FAF6B6;
+}
+img{
+  align-content: center;
+  width: 100%;
+}
