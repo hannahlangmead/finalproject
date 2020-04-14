@@ -1,4 +1,3 @@
 This is my final project. Welcome.
 
-My plan is to make a sound project explaining how to play 'Landslide' by Fleetwood Mac on guitar. This will be accompanied by a visual made on GIMP. I might try to make it animated but we'll see. 
-I might create a webpage to display the tutorial, unless I can find a different way to share it. 
+I made a webpage for a guitar tutorial. Right now I have a gif for the picking pattern and a graphic with all the chords. This will be accompanied by an audio tutorial that will play when you open the page. I still have some work to do on it. 
