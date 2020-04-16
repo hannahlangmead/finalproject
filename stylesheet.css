@@ -7,6 +7,12 @@ h1{
 body{
   background-color: #FAF6B6;
 }
+p{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  font-family: monospace;
+}
 img{
   align-content: center;
   width: 100%;
